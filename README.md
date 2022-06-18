@@ -44,7 +44,7 @@
 ```javascript
 const KatEscaner = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [ React ],
+  tools: [ React ]
 }
 ```
 ---
