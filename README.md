@@ -1,8 +1,8 @@
 <div align="center">
-  <h1> Good afternoon, I'm KatEscaner a little spanish coder </h1>
+  <h1> Good afternoon, I'm Juan José a spanish student </h1>
 </div>
 
-<p>Welcome to my profile! </br> I'm KatEscaner, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>. </p>
+<p>Welcome to my profile! </br>  I'm Juan José, a spanish student from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <!---
