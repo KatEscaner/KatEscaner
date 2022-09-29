@@ -50,7 +50,7 @@
 ```javascript
 const KatEscaner = {
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [ React, NextJs ]
+  frameworks: [ React, NextJs ]
 }
 ```
 ---
