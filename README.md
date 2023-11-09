@@ -55,4 +55,4 @@ const KatEscaner = {
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatEscaner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![KatEscaner's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ESCANER&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
